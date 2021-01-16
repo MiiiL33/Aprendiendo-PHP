@@ -18,6 +18,7 @@ $web="www.selamamoalcorvy.pe<br>";
 echo $web;
 $web="www.selamamoalcorchea.pe<br>";
 echo $web;
+echo '<hr/>'.PHP_OS;
 
 
 ?>
