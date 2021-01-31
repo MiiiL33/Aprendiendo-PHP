@@ -1,0 +1,4 @@
+Hola soy un archivo de texto 420
+Texto de prueba aa
+123 123 aa
+watonSoy un texto metido desde php
